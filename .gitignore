@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+eval/results/
+*.log
+.DS_Store
+venv/
+agent/.env
+venv
+agent/.venv
+agent/.venv-py311
+.venv
